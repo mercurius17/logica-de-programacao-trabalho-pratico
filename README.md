@@ -23,3 +23,4 @@ python questao1.py
 ```
 
 Troque o nome do arquivo para rodar as demais questões.
+Claude utilizado para upload e organização no Github.
